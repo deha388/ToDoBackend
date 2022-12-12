@@ -1,0 +1,10 @@
+sqlite: 
+  path: sqlite:///sqlite3.db
+  default: sqlite
+
+app: 
+  host: 0.0.0.0
+  port: 8000
+  encrypt_key: 3DabB_n1YzP-XfEOzfgh7JOqbjYI91kfk7hlOMCNYoY=
+
+
